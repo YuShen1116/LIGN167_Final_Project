@@ -1,0 +1,6 @@
+[submodule "RNN-NMT"]
+	path = RNN-NMT
+	url = https://github.com/VectorFist/RNN-NMT.git
+[submodule "Seq2Seq-PyTorch"]
+	path = Seq2Seq-PyTorch
+	url = https://github.com/MaximumEntropy/Seq2Seq-PyTorch.git
